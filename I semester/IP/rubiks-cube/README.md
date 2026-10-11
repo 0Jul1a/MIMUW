@@ -28,9 +28,9 @@ The input consist of a sequence of commands terminated by a dot (`.`), any data 
     * `b` - Back
     * `d` - Down (Bottom)
   * **Rotation angle:** optional:
-    * `empty` - $90^\circ$ clockwise
-    * `'` - $-90^\circ$ counter-clockwise
-    * `"` - $180^\circ$
+    * `empty`: $90^\circ$ clockwise
+    * `'`: -$90^\circ$ counter-clockwise
+    * `"`: $180^\circ$
 
 Executing a rotation command with **W layers**, **S face** and **angle K**, rotates **W layers** simultaneously
 (viewed from the perspective of face $S$) by **angle K** clockwise.
