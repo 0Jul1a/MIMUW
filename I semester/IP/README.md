@@ -21,4 +21,4 @@ All projects are written in ISO C17 and designed to compile under strict GCC fla
 - **Compiler:** `gcc` (version supporting `-std=c17`)
 - **Memory leakage analysis:** `valgrind`
 
-> **Note:** Only the implementation files (`.c`, `.asm`) are my own work. All assignment specifications and mathematical formalisms belong to their original authors @ **MIMUW**.
+> **Note:** Only the implementation files (`.c`) are my own work. All assignment specifications and mathematical formalisms belong to their original authors @ **MIMUW**.
