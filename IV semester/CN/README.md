@@ -7,12 +7,12 @@ All projects are written in ISO C++20 and designed to compile cleanly under stri
 
 - - -
 
-### Repository Structure
+### Repository structure
 
 | Project | Folder | Language | Description |
 | :--- | :--- | :---: | :--- |
-| **Networked Kayles Game** | [`/kayles`](./kayles) | <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++"> | Multi-session binary protocol server and CLI client for the game Kayles over UDP (IPv4). |
-| **Internet Radio Client** | [`/sikradio`](./sikradio) | <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++"> | Dual-stack TCP/IPv4/IPv6 internet radio streaming client with ICY metadata demultiplexing and TLS/SSL support. |
+| **Network Kayles game** | [`/kayles`](./kayles) | <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++"> | Multi-session binary protocol server and CLI client for the game Kayles over UDP (IPv4). |
+| **Internet radio client** | [`/sikradio`](./sikradio) | <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++"> | Dual-stack TCP/IPv4/IPv6 internet radio streaming client with ICY metadata demultiplexing and TLS/SSL support. |
 
 - - -
 
