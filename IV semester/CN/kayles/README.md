@@ -44,7 +44,7 @@ All multi-byte values are transmitted in **network byte order** (big-endian).
 ### Compilation & build
 ```bash
 # Build both executable targets: kayles_server and kayles_client
-make
+make all
 
 # Clean build artifacts
 make clean
