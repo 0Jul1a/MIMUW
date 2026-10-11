@@ -27,8 +27,8 @@ All multi-byte values are transmitted in **network byte order** (big-endian).
 | `player_a_id` | `uint32_t` | Player A ID (non-zero). |
 | `player_b_id` | `uint32_t` | Player B ID ($0$ if waiting for opponent). |
 | `status` | `uint8_t` | `0` (Waiting A), `1` (Turn A), `2` (Turn B), `3` (Win A), `4` (Win B). |
-| `max_pawn` | `uint8_t` | Index of the highest pin position ($0 \le \text{max\_pawn} \le 255$). |
-| `pawn_row` | `uint8_t[]` | Bit packed array representing pawn presence (1 = pawn, 0 = no pawn). |
+| `max_pawn` | `uint8_t` | Index of the highest pin position ($0 \le \text{max_pawn} \le 255$). |
+| `pawn_row` | `uint8_t[]` | Bit packed array representing pawn presence ($1 = \text{pawn}, 0 = \text{no pawn}$). |
 
 - - -
 
