@@ -1,4 +1,4 @@
-## SET Card game simulation
+## SET card game simulation
 
 - - -
 
