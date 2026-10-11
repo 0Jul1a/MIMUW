@@ -6,7 +6,7 @@
 | :---:    | :---                                                              | :--- |
 | *I*      | [Introduction to Programming](./I%20semester/IP)                    | <img src="https://skillicons.dev/icons?i=c" height="40">      
 | *II*     | [Object-oriented programming](./II%20semester/OOP)                  | <img src="https://skillicons.dev/icons?i=java" height="40">   
-| *II*     | [Computer Architecture and Operating Systems](./II%20semester/CAOS) | `Assembly (x86-64)` <img src="https://skillicons.dev/icons?i=c" height="40">                                                        
+| *II*     | [Computer Architecture and Operating Systems](./II%20semester/CAOS) | ![](https://img.shields.io/badge/Assembly-555555?style=for-the-badge) <img src="https://skillicons.dev/icons?i=c" height="40">                                                        
 | *III*    | [Python Programming Course](./III%20semester/PPC)                   | <img src="https://skillicons.dev/icons?i=python" height="40">   
 | *III*    | [Concurrent Programming](./III%20semester/CP)                       | <img src="https://skillicons.dev/icons?i=java,c" height="40">  
 | *III*    | [Algorithms and data structures](./III%20semester/ADS)              |<img src="https://skillicons.dev/icons?i=cpp" height="40">   
