@@ -2,8 +2,10 @@
 An x86_64 assembly project implementing a function, callable from C, to calculate for `n-bit` integer `x` (x > 1)
 positive n-bit integer `y` such that: 
 ```
-$x \time y \le 2^n < x(y + 1)$
-```
+
+x * y ≤ 2ⁿ < x * (y + 1)
+
+````
 
 ## Project summary
 * **Efficiency:** handles integers up to **256,000 bits**.
