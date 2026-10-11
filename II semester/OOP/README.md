@@ -15,5 +15,3 @@ The core objective is to model multi-dimensional numeric data structures using f
 - **Scalar (0D):** Single `double` value ($0$ dimensions).
 - **Vector (1D):** $1 \times N$ (horizontal) or $N \times 1$ (vertical) dense array.
 - **Matrix (2D):** Rectangular $M \times N$ dense grid of `double` values.
-- 
-- - -
